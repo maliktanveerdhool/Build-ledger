@@ -1,0 +1,6 @@
+{
+  "name": "BuildLedger",
+  "description": "Construction Accounting & Billing Management SaaS MVP with JSON data persistence, job costing, progress billing, and reports",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
